@@ -14,11 +14,13 @@
 - /Users/Joanne/Documents/Rocket_Project/Project-user-study/01_問卷重點整理產出計畫.md
 - /Users/Joanne/Documents/Rocket_Project/Project-user-study/02_需求洞察整理：程式產出計畫.md
 - /Users/Joanne/Documents/Rocket_Project/Project-user-study/0603 問卷更新與 01／02／03 校準計畫.md
+- /Users/Joanne/Documents/Rocket_Project/Project-user-study/02_Affinity檢核與人工收斂紀錄產出計畫.md
 
 ### Completed Result
 
 - /Users/Joanne/Documents/Rocket_Project/Project-user-study/01_問卷重點整理.md
 - /Users/Joanne/Documents/Rocket_Project/Project-user-study/02_需求洞察整理.md
+- /Users/Joanne/Documents/Rocket_Project/Project-user-study/02_Affinity檢核與人工收斂紀錄.md
 
 ## In Progress
 
@@ -34,7 +36,8 @@
 
 - 01/02/03 已依 65 份問卷完成校準。
 - 一對一匿名經驗交流信箱目前定位為主要產品假設，不是問卷已完全驗證的唯一最佳形式。
-- 進入 User Stories 前，建議先由團隊確認 02 的 Affinity Diagram 轉換與 03 Persona 定稿。
+- 02 的 Affinity 檢核已改以 Markdown 文件完成，不強制使用 FigJam 模板。
+- 02 已可支撐進入 03 Persona 人工定稿；進入 User Stories 前仍需確認 03 Persona 定稿。
 
 ## Not Started Stage
 
