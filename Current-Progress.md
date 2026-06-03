@@ -16,6 +16,7 @@
 - 0603 問卷更新與 01／02／03 校準計畫.md
 - 02_Affinity檢核與人工收斂紀錄產出計畫.md
 - 03_假設型 Persona：程式產出計畫.md
+- 04_User Stories初稿：程式產出計畫.md
 
 ### Completed Result
 
@@ -23,16 +24,17 @@
 - 02_需求洞察整理.md
 - 02_Affinity檢核與人工收斂紀錄.md
 - 03_假設型Persona.md
+- 04_User Stories初稿.md
 
 ## In Progress
 
 ### Ongoing Proposed Plan
 
-- 下一階段待規劃：04_User Stories
+- 下一階段待規劃：05_MVP 建議與待驗證假設
 
 ### Ongoing Document
 
-- 暫無。03 Persona 已完成定稿，下一步可開始 04_User Stories。
+- 04_User Stories 初稿已完成，下一步需人工審核 8 則故事，決定保留、合併、延後或刪除。
 
 ### Current Gate
 
@@ -43,10 +45,10 @@
 - Persona 維持 2 類：經驗尋求者、經驗分享者。
 - 觀望者定位為使用狀態，不新增第三 Persona。
 - 03 Persona 保留「假設型」語氣，並將一對一匿名經驗交流信箱寫為主要產品假設。
-- 下一步可進入 04_User Stories，需依 03 Persona 與 `F/T/IN` 證據來源收斂 6-8 則核心故事。
+- 04_User Stories 初稿已依 03 Persona、`F/T/IN` 證據來源與外部 User Story 方法來源產出 8 則假設型核心故事。
+- 下一步需人工審核 8 則故事是否支撐一對一匿名經驗交流信箱，並視需要刪減為 6-8 則正式核心故事。
 
 ## Not Started Stage
 
-- User Stories
 - MVP 建議與待驗證假設
 - Possible to include: 競品分析
