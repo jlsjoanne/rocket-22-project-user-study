@@ -2,7 +2,7 @@
 
 ## Summary
 
-以 [2天分工及流程.md](/Users/Joanne/Documents/Rocket_Project/Project/2天分工及流程.md)、[工具與協作.md](/Users/Joanne/Documents/Rocket_Project/Project/工具與協作.md) 與 55 份問卷回覆為基礎，產出「探索性研究 → 2 類 Persona → 6-8 則核心 User Stories → MVP 建議」。樣本數不足 100，因此所有結論標註為「假設型需求」，產品規格只作為輔助建議。
+以 [2天分工及流程.md](2天分工及流程.md)、[工具與協作.md](工具與協作.md) 與 55 份問卷回覆為基礎，產出「探索性研究 → 2 類 Persona → 6-8 則核心 User Stories → MVP 建議」。樣本數不足 100，因此所有結論標註為「假設型需求」，產品規格只作為輔助建議。
 
 核心方向採「一對一匿名經驗交流信箱優先」，但匿名是平台 default 設定，不作為 Persona。主要 Persona 為「經驗尋求者」與「經驗分享者」。
 
