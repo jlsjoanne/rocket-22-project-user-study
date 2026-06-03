@@ -37,7 +37,9 @@
 - 01/02/03 已依 65 份問卷完成校準。
 - 一對一匿名經驗交流信箱目前定位為主要產品假設，不是問卷已完全驗證的唯一最佳形式。
 - 02 的 Affinity 檢核已改以 Markdown 文件完成，不強制使用 FigJam 模板。
-- 02 已可支撐進入 03 Persona 人工定稿；進入 User Stories 前仍需確認 03 Persona 定稿。
+- 03 計畫已依 02 Affinity 檢核重審，Persona 維持 2 類：經驗尋求者、經驗分享者。
+- 觀望者目前定位為使用狀態，不新增第三 Persona。
+- 03 初稿已依最新計畫補強，但進入 User Stories 前仍需完成 03 Persona 人工定稿。
 
 ## Not Started Stage
 
