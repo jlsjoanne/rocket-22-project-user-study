@@ -17,6 +17,7 @@
 - 02_Affinity檢核與人工收斂紀錄產出計畫.md
 - 03_假設型 Persona：程式產出計畫.md
 - 04_User Stories初稿：程式產出計畫.md
+- 04_User Stories人工審核後整理：程式產出計畫.md
 
 ### Completed Result
 
@@ -25,16 +26,19 @@
 - 02_Affinity檢核與人工收斂紀錄.md
 - 03_假設型Persona.md
 - 04_User Stories初稿.md
+- 04_User Stories.md
 
 ## In Progress
 
 ### Ongoing Proposed Plan
 
-- 下一階段待規劃：05_MVP 建議與待驗證假設
+- 下一階段待規劃：05_MVP 建議與待驗證假設。
 
 ### Ongoing Document
 
-- 04_User Stories 初稿已完成，下一步需人工審核 8 則故事，決定保留、合併、延後或刪除。
+- 04_User Stories 已完成人工審核後整理，形成 7 則核心故事。
+- `US-04 查看等待狀態與替代建議` 已延後到 05 MVP 判斷，不阻塞進入下一階段。
+- 已新增 `Appendix_外部方法對應與初步驗收條件.md`，供人工審核前理解 04 文件欄位用途。
 
 ### Current Gate
 
@@ -46,7 +50,8 @@
 - 觀望者定位為使用狀態，不新增第三 Persona。
 - 03 Persona 保留「假設型」語氣，並將一對一匿名經驗交流信箱寫為主要產品假設。
 - 04_User Stories 初稿已依 03 Persona、`F/T/IN` 證據來源與外部 User Story 方法來源產出 8 則假設型核心故事。
-- 下一步需人工審核 8 則故事是否支撐一對一匿名經驗交流信箱，並視需要刪減為 6-8 則正式核心故事。
+- 04_User Stories 已完成人工審核後整理，保留 7 則核心故事，符合 6-8 則門檻。
+- 04 階段不需再次人工審核，可進入 05_MVP 建議與待驗證假設。
 
 ## Not Started Stage
 
