@@ -18,6 +18,7 @@
 - 03_假設型 Persona：程式產出計畫.md
 - 04_User Stories初稿：程式產出計畫.md
 - 04_User Stories人工審核後整理：程式產出計畫.md
+- 05_MVP 建議與待驗證假設：程式產出計畫.md
 
 ### Completed Result
 
@@ -27,17 +28,18 @@
 - 03_假設型Persona.md
 - 04_User Stories初稿.md
 - 04_User Stories.md
+- 05_MVP 建議與待驗證假設.md
 
 ## In Progress
 
 ### Ongoing Proposed Plan
 
-- 下一階段待規劃：05_MVP 建議與待驗證假設。
+- 暫停主流程，等待 05_MVP 建議與待驗證假設的人工決策模板填寫完成。
 
 ### Ongoing Document
 
-- 04_User Stories 已完成人工審核後整理，形成 7 則核心故事。
-- `US-04 查看等待狀態與替代建議` 已延後到 05 MVP 判斷，不阻塞進入下一階段。
+- 05_MVP 建議與待驗證假設已產出程式初稿，採 MoSCoW 四欄排序。
+- 下一步需人工填寫 MVP 功能決策表、Must-have 確認表、風險接受度判斷表、待驗證假設決策表與 Won’t-have now 確認表。
 - 已新增 `Appendix_外部方法對應與初步驗收條件.md`，供人工審核前理解 04 文件欄位用途。
 
 ### Current Gate
@@ -52,8 +54,9 @@
 - 04_User Stories 初稿已依 03 Persona、`F/T/IN` 證據來源與外部 User Story 方法來源產出 8 則假設型核心故事。
 - 04_User Stories 已完成人工審核後整理，保留 7 則核心故事，符合 6-8 則門檻。
 - 04 階段不需再次人工審核，可進入 05_MVP 建議與待驗證假設。
+- 05_MVP 建議與待驗證假設已依 04 User Stories、問卷支持度與風險產出 MoSCoW 排序初稿。
+- 05 的 MVP 最終優先級仍需人工決定，不能把程式建議直接視為開發承諾。
 
 ## Not Started Stage
 
-- MVP 建議與待驗證假設
 - Possible to include: 競品分析
